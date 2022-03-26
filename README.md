@@ -26,13 +26,13 @@ In general, Subscribers use the service more than the Customers. Between Subscri
 
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/05%20Trips%20by%20Gender%20by%20Weekday.png">
 
-Starting Location
+The start and end locations are very uniform. This goes along with the fact that most rides last around 5 minutes.
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/06%20Starting%20Location.png">
 
-Ending Location
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/07%20Ending%20Location.png">
 
 Trips by Start Time and Trip Duration in Minutes
+
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/08%20Trips%20by%20Start%20Time%20and%20Trip%20Duration%20in%20Minutes.png">
 
 Trips by Start Time and Trip Duration in Minutes BAR CHART
