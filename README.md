@@ -3,6 +3,8 @@
 # Overview
 Analyzing and displaying data to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 
+[Tableau Dashboard](https://public.tableau.com/views/Columbus01/TopStartingLocations?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 # Resutls
 Me majority of the rides last between 1 and 24 minutes with a peak of 5 minutes per ride.
 
@@ -41,8 +43,3 @@ The majority of the trips happen early in the morning around 8AM and in the afte
 The following chart confirms the previous chart with a different representation of the same data. Most trips happen between 8AM and 9AM and in the afternoon between 5PM and 6PM
 
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/09%20Trips%20by%20Start%20Time%20and%20Trip%20Duration%20in%20Minutes%20BAR%20CHART.png">
-
-# Testing
-[link to dashboard](https://public.tableau.com/views/Columbus01/TopStartingLocations?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
-[link to dashboard](LINK GOES HERE "https://public.tableau.com/shared/Y9XX9Y62Q?:display_count=n&:origin=viz_share_link")
