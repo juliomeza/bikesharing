@@ -5,16 +5,20 @@ Analyze and display data to convince investors that a bike-sharing program in De
 
 # Resutls
 
-Checkout times for Users
+Me majority of the rides last 5 minutes and most of the rides are between 1 and 24 minutes
+
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/01%20Checkout%20times%20for%20Users.png">
 
-Checkout times per Gender
+In average, males are using the Bike Sharing services 3 times more than the females
+
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/02%20Checkout%20times%20per%20Gender.png">
 
 Trips by Weekday for Each Hour
+
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/03%20Trips%20by%20Weekday%20for%20Each%20Hour.png">
 
 Trips by Gender (Weekday per Hour)
+
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/04%20Trips%20by%20Gender%20(Weekday%20per%20Hour).png">
 
 
