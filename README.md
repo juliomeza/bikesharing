@@ -43,4 +43,4 @@ The following chart confirms the previous chart with a different representation 
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/09%20Trips%20by%20Start%20Time%20and%20Trip%20Duration%20in%20Minutes%20BAR%20CHART.png">
 
 # Testing
-[link to dashboard]("https://public.tableau.com/views/Columbus01/TopStartingLocations?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link")
+[link to dashboard](https://public.tableau.com/views/Columbus01/TopStartingLocations?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
