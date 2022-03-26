@@ -31,11 +31,12 @@ The start and end locations are very uniform. This goes along with the fact that
 
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/07%20Ending%20Location.png">
 
-Trips by Start Time and Trip Duration in Minutes
+The majority of the trips happen early in the morning around 8AM and in the afternoon between 5PM and 6PM. Also, between those hours, most trips last between 3 and 10 minutes.
 
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/08%20Trips%20by%20Start%20Time%20and%20Trip%20Duration%20in%20Minutes.png">
 
-Trips by Start Time and Trip Duration in Minutes BAR CHART
+The following chart confirms the previous charts with a different representation of the same data. Most trips happen between 8AM and 9AM and in the afternoon between 5PM and 6PM
+
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/09%20Trips%20by%20Start%20Time%20and%20Trip%20Duration%20in%20Minutes%20BAR%20CHART.png">
 
 
