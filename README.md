@@ -13,7 +13,7 @@ In average, males are using the Bike Sharing services 3 times more than the fema
 
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/02%20Checkout%20times%20per%20Gender.png">
 
-Trips by Weekday for Each Hour
+The majority of the rides hapen around 8AM and between 5PM and 6PM with peaks on Mondays, Tuesdays and Thursdays.
 
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/03%20Trips%20by%20Weekday%20for%20Each%20Hour.png">
 
