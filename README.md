@@ -41,3 +41,4 @@ The following chart confirms the previous chart with a different representation 
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/09%20Trips%20by%20Start%20Time%20and%20Trip%20Duration%20in%20Minutes%20BAR%20CHART.png">
 
 # Summary
+With all the data displayed above, the next step will be to determine how many bikes are needed based on the population. The analysis needs to continue.
