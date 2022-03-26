@@ -17,12 +17,13 @@ The majority of the rides hapen around 8AM and between 5PM and 6PM with peaks on
 
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/03%20Trips%20by%20Weekday%20for%20Each%20Hour.png">
 
-Trips by Gender (Weekday per Hour)
+Males and Females have the same behave in terms of when they use the Bike Sharing services, the only difference between them is the frequency of ussage.
 
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/04%20Trips%20by%20Gender%20(Weekday%20per%20Hour).png">
 
 
-Trips by Gender by Weekday
+In general, Subscribers use the service more than the Customers. Between Subscribers, males use the service more than females.
+
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/05%20Trips%20by%20Gender%20by%20Weekday.png">
 
 Starting Location
