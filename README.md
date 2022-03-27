@@ -3,7 +3,7 @@
 # Overview
 Analyzing and displaying data to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 
-[Tableau Dashboard](https://public.tableau.com/views/Columbus01/TopStartingLocations?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Tableau Dashboard](https://public.tableau.com/views/Columbus-10/FinalPresentation?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 # Resutls
 Me majority of the rides last between 1 and 24 minutes with a peak of 5 minutes per ride.
