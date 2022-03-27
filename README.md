@@ -41,9 +41,9 @@ The start and end locations are very uniform. This goes tide with the fact that 
 
 [Top Starting Locations](https://public.tableau.com/views/Columbus-06/TopStartingLocations?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[Top Ending Locations](https://public.tableau.com/views/Columbus-07/TopEndingLocations?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/06%20Starting%20Location.png">
+
+[Top Ending Locations](https://public.tableau.com/views/Columbus-07/TopEndingLocations?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/07%20Ending%20Location.png">
 
