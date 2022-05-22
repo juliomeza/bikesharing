@@ -1,11 +1,11 @@
 # Bike Sharing
 
-# Overview
+## Overview
 Analyzing and displaying data to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 
 [Tableau Dashboard](https://public.tableau.com/views/Columbus-10/FinalPresentation?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-# Resutls
+## Resutls
 Me majority of the rides last between 1 and 24 minutes with a peak of 5 minutes per ride.
 
 [Checkout Times per Users](https://public.tableau.com/views/Columbus-01/CheckoutTimesforUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
@@ -47,7 +47,7 @@ The start and end locations are very uniform. This goes tide with the fact that 
 
 <img src="https://github.com/juliomeza/bikesharing/blob/main/screenshots/07%20Ending%20Location.png">
 
-# Summary
+## Summary
 With all the data displayed above, the next step will be to determine how many bikes are needed based on the population. The analysis needs to continue. Below are some other representations of the data to help the investors.
 
 The majority of the trips happen early in the morning around 8AM and in the afternoon between 5PM and 6PM. Also, between those hours, most trips last between 3 and 10 minutes.
